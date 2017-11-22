@@ -1,0 +1,11 @@
+C:\Users\Tudip\source\repos\DotNetCoreWebAPIWithDapper\DotNetCoreWebAPIWithDapper\bin\Debug\netcoreapp2.0\DotNetCoreWebAPIWithDapper.deps.json
+C:\Users\Tudip\source\repos\DotNetCoreWebAPIWithDapper\DotNetCoreWebAPIWithDapper\bin\Debug\netcoreapp2.0\DotNetCoreWebAPIWithDapper.dll
+C:\Users\Tudip\source\repos\DotNetCoreWebAPIWithDapper\DotNetCoreWebAPIWithDapper\bin\Debug\netcoreapp2.0\DotNetCoreWebAPIWithDapper.pdb
+C:\Users\Tudip\source\repos\DotNetCoreWebAPIWithDapper\DotNetCoreWebAPIWithDapper\obj\Debug\netcoreapp2.0\DotNetCoreWebAPIWithDapper.csproj.CoreCompileInputs.cache
+C:\Users\Tudip\source\repos\DotNetCoreWebAPIWithDapper\DotNetCoreWebAPIWithDapper\obj\Debug\netcoreapp2.0\DotNetCoreWebAPIWithDapper.AssemblyInfoInputs.cache
+C:\Users\Tudip\source\repos\DotNetCoreWebAPIWithDapper\DotNetCoreWebAPIWithDapper\obj\Debug\netcoreapp2.0\DotNetCoreWebAPIWithDapper.AssemblyInfo.cs
+C:\Users\Tudip\source\repos\DotNetCoreWebAPIWithDapper\DotNetCoreWebAPIWithDapper\obj\Debug\netcoreapp2.0\DotNetCoreWebAPIWithDapper.dll
+C:\Users\Tudip\source\repos\DotNetCoreWebAPIWithDapper\DotNetCoreWebAPIWithDapper\obj\Debug\netcoreapp2.0\DotNetCoreWebAPIWithDapper.pdb
+C:\Users\Tudip\source\repos\DotNetCoreWebAPIWithDapper\DotNetCoreWebAPIWithDapper\bin\Debug\netcoreapp2.0\DotNetCoreWebAPIWithDapper.runtimeconfig.json
+C:\Users\Tudip\source\repos\DotNetCoreWebAPIWithDapper\DotNetCoreWebAPIWithDapper\bin\Debug\netcoreapp2.0\DotNetCoreWebAPIWithDapper.runtimeconfig.dev.json
+C:\Users\Tudip\source\repos\DotNetCoreWebAPIWithDapper\DotNetCoreWebAPIWithDapper\obj\Debug\netcoreapp2.0\DotNetCoreWebAPIWithDapper.csprojResolveAssemblyReference.cache
